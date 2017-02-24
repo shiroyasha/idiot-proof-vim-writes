@@ -1,6 +1,6 @@
 # Write protection for idiots in Vim
 
-I created a stupid habit of saving the Vim buffer multiple times in a row.
+I created a bad habit of saving the files multiple times in a row.
 Usually while thinking about other unrelated stuff.
 
 To protect myself, and to fix this habit, I have created this Vim plugin that
